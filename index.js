@@ -12,5 +12,6 @@ const tutorials = [
 ];
 
 const titleCased = () => {
+  // use the .map method on the tutorials to return a new array
   return tutorials
 }
